@@ -29,6 +29,7 @@
     "label-position": true,
     "max-line-length": [
       false,
+      140
     ],
     "member-access": false,
     "member-ordering": [
@@ -64,7 +65,6 @@
     ],
     "no-misused-new": true,
     "no-non-null-assertion": true,
-    "no-redundant-jsdoc": true,
     "no-shadowed-variable": true,
     "no-string-literal": false,
     "no-string-throw": true,
